@@ -41,8 +41,7 @@ const Hero = ({}: HeroProps) => {
                         </span>
                     </h1>
                     <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-                    Use Large Language Models to analyze Data. Upgrade
-						your decision rubric with Tesseract.
+                         Tesseract SHIELD help DeFi Apps prevent fraud and improve user security without comprising privacy
                     </p>
                     <Button href="/pricing" white>
                         Get started
@@ -84,7 +83,7 @@ const Hero = ({}: HeroProps) => {
                             <ScrollParallax isAbsolutelyPositioned>
                                 <Notification
                                     className="hidden absolute -right-[5.5rem] bottom-[11.25rem] w-[18.375rem] xl:flex"
-                                    title="Report generation"
+                                    title="Swap token"
                                 />
                             </ScrollParallax>
                         </div>

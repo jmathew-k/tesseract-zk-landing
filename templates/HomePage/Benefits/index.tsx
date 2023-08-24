@@ -24,7 +24,7 @@ const Benefits = ({}: BenefitsProps) => {
             <div className="container relative z-2">
                 <Heading
                     className="md:max-w-md lg:max-w-2xl"
-                    title="Tesseract Semantic Layer"
+                    title="Tesseract zk-SHIELD"
                 />
                 <Splide
                     className="splide-visible max-w-[24rem] md:max-w-none"
